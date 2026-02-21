@@ -1,6 +1,6 @@
 # odin-recipes introduction 
 
-Hi there users!, I'm a programming learner and this project consists on building a functional recipes website to test my HTML and Git skills learned during my foundations path in "The Odin Project".
+Hi there users!, I'm a programming learner and this project consists on building a functional recipes website to test my HTML and Git skills which have been learned by me during my foundations path on "The Odin Project".
 
 # Skills
 
